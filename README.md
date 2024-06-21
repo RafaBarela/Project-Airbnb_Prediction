@@ -3,7 +3,7 @@
 
  # Sobre o projeto
 
-Este projeto de Inteligência Artificial tem como objetivo prever os preços de imóveis listados no Airbnb - RJ. Utilizando uma combinação de técnicas avançadas de análise de dados e algoritmos de machine learning, desenvolvi um modelo robusto que oferece estimativas precisas dos valores dos imóveis. Disponibilizei o código fonte do Projeto, sendo possível ver todo o passo a passo seguido, desde a importação das bases até o salvamento do modelo em um arquivo.
+Este projeto de Inteligência Artificial tem como objetivo prever os valores de uma DIÁRIA de imóveis listados no Airbnb - RJ. Utilizando uma combinação de técnicas avançadas de análise de dados e algoritmos de machine learning, desenvolvi um modelo robusto que oferece estimativas precisas dos valores dos imóveis. Disponibilizei o código fonte do Projeto, sendo possível ver todo o passo a passo seguido, desde a importação das bases até o salvamento do modelo em um arquivo.
 
 ## Layout - Streamlit
 
